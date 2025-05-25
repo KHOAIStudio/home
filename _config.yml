@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Nguyễn Văn Tôi
-description: Tôi chưa biết nói gì
+title: KHOAI Studio
+description: Top 1 studio trong lòng người hâm mộ
 logo: ./icon.png

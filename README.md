@@ -30,6 +30,5 @@ Khiến bạn thấy **khoai, khoái, khổ ải** cùng game của chúng tôi.
 Và nếu bạn thấy `KHỔÁỈ` (?), thì tốt. Đó chính là ý đồ của tụi này.
 
 ---
----
 
 Bài thuyết trình của ***tụi em*** đến đây là hết, cảm ơn mọi người đã lắng nghe. Mời các nhóm đặt câu hỏi ạ 🥶
